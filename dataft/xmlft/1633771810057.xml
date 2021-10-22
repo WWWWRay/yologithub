@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datafootball</folder>
+	<filename>1633771810057.png</filename>
+	<path>D:\pyfile\yolo\yolo基础1\datafootball\1633771810057.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1440</xmin>
+			<ymin>655</ymin>
+			<xmax>1517</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+</annotation>
